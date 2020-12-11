@@ -16,6 +16,8 @@ public class Dept extends Emp {
 		System.out.println("emp salary 10000");		
 	}
 	
+	//hello
+	int a = 10;
 	
 
 }
